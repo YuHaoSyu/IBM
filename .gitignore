@@ -1,0 +1,3 @@
+*.pug
+sass/
+style.css.map
